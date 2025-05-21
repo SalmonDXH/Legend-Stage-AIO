@@ -1,0 +1,15 @@
+{
+    "Name": "Legend Stage",
+    "Description": "No description provided",
+    "Author": "SalmonDXH",
+    "Version": "1.0",
+    "Image": "https://i.ibb.co/mVyGhDHn/mango-1.png",
+    "Tags": {
+        "Resolution": "Full Res Support",
+        "Type": "AHK"
+    },
+    "Main": "main.ahk",
+    "MangoID": "Mango-drqya3",
+    "bigthumbnail": "https://i.postimg.cc/h4Y1mmXF/New-Project-14.png",
+    "Game": "BubbleGumSim"
+}
