@@ -1,0 +1,6 @@
+v1.0.0: It works
+v1.0.1: Fix placing unit
+v1.0.2:
+- Added Find spot manually
+- Added description for slots
+- Added f5 to open image

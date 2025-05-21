@@ -1,0 +1,4 @@
+﻿Slot1|Sjw|12|3|0|4
+Slot2|Lancer|8|1|0|1
+Slot3|Uryu|12|3|0|1
+Slot4|Luce|1|3|0|1
